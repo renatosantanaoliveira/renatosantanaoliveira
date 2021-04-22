@@ -1,9 +1,8 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there 👋 </h1>
-==========================================================================================================================================
 
 
-My name is Renato Santana de Oliveir. I work as a QA Engineer at Zup Innovation.
+My name is Renato Santana de Oliveira. I work as a QA Engineer at Zup Innovation.
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=renatosantanaoliveira&repo=renatosantanaoliveira&countColorcountColor)
 
