@@ -84,7 +84,17 @@ I write regularly on [Medium](https://medium.com/@renato-saoli) about modern tes
 
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=github&logoColor=white)&nbsp;
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white)&nbsp;
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat)&nbsp;
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
+
+---
+
+## Featured Projects
+
+| Project | Description |
+|---|---|
+| [template-cypress-intelligent](https://github.com/renatosantanaoliveira/template-cypress-intelligent) | Production-ready Cypress template with **GitHub Copilot** integration, governance guardrails, and structured patterns to accelerate test creation safely at scale |
+| [e2e-generator-scaffold-testing-js](https://github.com/renatosantanaoliveira/e2e-generator-scaffold-testing-js) | CLI scaffold generator that bootstraps a complete E2E test project structure in minutes, eliminating repetitive setup and enforcing architecture standards from day one |
 
 ---
 
