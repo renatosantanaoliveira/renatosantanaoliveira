@@ -108,21 +108,9 @@ I write regularly on [Medium](https://medium.com/@renato-saoli) about modern tes
 
 ---
 
-## GitHub Stats
-
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=renatosantanaoliveira&layout=compact&count_private=true&theme=dark)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=renatosantanaoliveira&count_private=true&show_icons=true&theme=dark)
-
-</div>
-
----
-
-<div align="center">
-
-*Open to Staff / Principal QA, SDET Lead, and Platform Quality Engineering opportunities*
+*Always open to exchanging ideas, collaborating on quality initiatives, or just talking about QA, AI, and engineering.*
 
 [![Let's Connect](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renatosantanaoliveira)
 
